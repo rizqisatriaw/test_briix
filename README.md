@@ -1,6 +1,6 @@
 # test_briix
 
-A new Flutter project.
+A project test Mobile Engineer Flutter in Briix
 
 ## Getting Started
 
